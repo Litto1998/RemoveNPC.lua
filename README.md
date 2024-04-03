@@ -1,6 +1,6 @@
 # RemoveNPC.lua
 Introduction:
-Are you tired of the clutter and congestion plaguing your GTA V world? Introducing "RemoveNPC" – your go-to solution for instantly clearing the streets of unwanted NPCs and vehicles. Whether you're an administrator striving to maintain server harmony or a player seeking a more immersive gaming experience, this script is your key to a cleaner, more tranquil environment.
+Are you tired of the clutter and congestion plaguing your FIVEM world? Introducing "RemoveNPC" – your go-to solution for instantly clearing the streets of unwanted NPCs and vehicles. Whether you're an administrator striving to maintain server harmony or a player seeking a more immersive gaming experience, this script is your key to a cleaner, more tranquil environment.
 
 Features:
 Instant NPC and Vehicle Removal: Simply by starting it, watch as "RemoveNPC" swiftly eliminates bothersome NPCs and traffic, restoring peace and order to your virtual domain in the blink of an eye.
