@@ -1,0 +1,22 @@
+-- LICENSE FILE
+
+-- This is a license file for the Lua script "RemoveNPCs.lua".
+
+-- EVERYONE IS FREE TO USE THIS SCRIPT AT THEIR DISCRETION.
+-- This script is provided without any warranty. The author will not be liable for any damages arising from the use of this script.
+
+-- The user is free to:
+--   - Modify the script to fit their needs.
+--   - Distribute and share the code with other players or developers.
+
+-- The author does not permit:
+--   - The use of this script for commercial or profit-making purposes without their consent.
+--   - The distribution of a modified version of the script as their own, without highlighting the changes made.
+
+-- If the user decides to use this script, it is advisable that:
+--   - The rules and policies of the server or game where the script is being used are respected.
+--   - The code is carefully examined to understand how it works before use.
+--   - Game files are backed up before using any scripts or mods.
+
+
+-- Thank you for using this script!
